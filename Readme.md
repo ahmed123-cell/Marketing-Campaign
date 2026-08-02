@@ -106,3 +106,6 @@ Investigate whether the email effect differs across customer segments (e.g., Hig
 ## Conclusion
 
 This project demonstrates a complete, industry-standard approach to evaluating marketing campaign effectiveness — moving from basic A/B testing all the way to understanding heterogeneous treatment effects and uplift modeling.
+
+## Website Insights
+If you want to see the campaign insights. you can go to this link: [Insights](https://geographical-emerald-bafmp5xz.edgeone.dev/) 
